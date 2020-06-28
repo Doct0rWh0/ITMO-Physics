@@ -8,6 +8,6 @@ Output file: picture in PNM format
 Maximum projection module of the electric field: value when brightness is maximum  
 
 ## Lab 3.13V
-Arguments: <input_file_name> <output_file_name>
+Arguments: <input_file_name> <output_file_name>  
 Input file: file with data from COMSOL  
 Output file: data for graphs  
